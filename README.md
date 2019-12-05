@@ -1,1 +1,1 @@
-# BolMac
+# Hopfield Neural Net
